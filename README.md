@@ -11,3 +11,4 @@ Javascript<br>
 CSS<br>
 EJS<br>
 
+<h1>🚀Como executar o projeto</h1> 
