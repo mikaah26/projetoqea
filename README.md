@@ -12,3 +12,7 @@ CSS<br>
 EJS<br>
 
 <h1>🚀Como executar o projeto</h1> 
+$ https://github.com/mikaah26/projetoqea.git
+$ cd perguntas-e-respostas
+$npm install 
+$DB_NAME
