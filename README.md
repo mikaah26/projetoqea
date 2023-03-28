@@ -13,6 +13,30 @@ EJS<br>
 
 <h1>🚀Como executar o projeto</h1> 
 $ https://github.com/mikaah26/projetoqea.git
-$ cd perguntas-e-respostas
-$npm install 
-$DB_NAME
+
+Clone o Projeto:
+   "git clone"
+
+   Entre no diretório do projeto:
+
+   "cd projeto-pergunta-main"
+
+   Instale as dependências:
+
+   "npm install"
+
+   Configure o banco de dados:
+
+   "DB_NAME = "projeto"
+
+USER = "root"
+
+PASSWORD = ""
+
+HOST = "localhost"
+
+PORT = "3306"
+
+"    Inicie o projeto:
+
+"npm run dev"
